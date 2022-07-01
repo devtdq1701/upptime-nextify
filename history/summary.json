@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1248,
-    "timeDay": 1248,
-    "timeWeek": 1248,
-    "timeMonth": 1248,
-    "timeYear": 1248,
+    "time": 1255,
+    "timeDay": 1255,
+    "timeWeek": 1255,
+    "timeMonth": 1255,
+    "timeYear": 1255,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Test Telegram",
-    "url": "https://test.com",
-    "icon": "https://favicons.githubusercontent.com/test.com",
-    "slug": "test-telegram",
-    "status": "up",
-    "uptime": "8.61%",
-    "uptimeDay": "8.61%",
-    "uptimeWeek": "8.61%",
-    "uptimeMonth": "8.61%",
-    "uptimeYear": "8.61%",
-    "time": 782,
-    "timeDay": 782,
-    "timeWeek": 782,
-    "timeMonth": 782,
-    "timeYear": 782,
-    "dailyMinutesDown": {
-      "2022-07-01": 228
-    }
   }
 ]
