@@ -22,19 +22,19 @@
     "url": "https://test.com",
     "icon": "https://favicons.githubusercontent.com/test.com",
     "slug": "test-telegram",
-    "status": "down",
-    "uptime": "9.43%",
-    "uptimeDay": "9.43%",
-    "uptimeWeek": "9.43%",
-    "uptimeMonth": "9.43%",
-    "uptimeYear": "9.43%",
-    "time": 1418,
-    "timeDay": 1418,
-    "timeWeek": 1418,
-    "timeMonth": 1418,
-    "timeYear": 1418,
+    "status": "up",
+    "uptime": "8.61%",
+    "uptimeDay": "8.61%",
+    "uptimeWeek": "8.61%",
+    "uptimeMonth": "8.61%",
+    "uptimeYear": "8.61%",
+    "time": 782,
+    "timeDay": 782,
+    "timeWeek": 782,
+    "timeMonth": 782,
+    "timeYear": 782,
     "dailyMinutesDown": {
-      "2022-07-01": 206
+      "2022-07-01": 228
     }
   }
 ]
