@@ -5,6 +5,10 @@ repo: upptime-nextify # The name of this repository
 sites:
   - name: Mobitopup
     url: https://napcard.voz.tech
+    maxResponseTime: 3000
+    method: GET
+- name: Test Telegram
+    url: https://test.com
     maxResponseTime: 5000
     method: GET
 status-website:
