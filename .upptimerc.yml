@@ -7,7 +7,7 @@ sites:
     url: https://napcard.voz.tech
     maxResponseTime: 3000
     method: GET
-- name: Test Telegram
+  - name: Test Telegram
     url: https://test.com
     maxResponseTime: 5000
     method: GET
