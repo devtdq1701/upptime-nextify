@@ -4,9 +4,9 @@
     "url": "https://napcard.voz.tech",
     "icon": "https://favicons.githubusercontent.com/napcard.voz.tech",
     "slug": "mobitopup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.90%",
@@ -16,6 +16,7 @@
     "timeMonth": 1415,
     "timeYear": 1350,
     "dailyMinutesDown": {
+      "2022-09-26": 0,
       "2022-09-13": 126
     }
   }
