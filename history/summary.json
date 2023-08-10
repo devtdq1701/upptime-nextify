@@ -4,17 +4,17 @@
     "url": "https://napcard.voz.tech",
     "icon": "https://icons.duckduckgo.com/ip3/napcard.voz.tech.ico",
     "slug": "mobitopup",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.58%",
-    "uptimeDay": "93.56%",
+    "uptimeDay": "93.55%",
     "uptimeWeek": "94.25%",
-    "uptimeMonth": "94.43%",
+    "uptimeMonth": "94.47%",
     "uptimeYear": "99.54%",
-    "time": 4073,
-    "timeDay": 4364,
+    "time": 4074,
+    "timeDay": 4487,
     "timeWeek": 4308,
-    "timeMonth": 4829,
-    "timeYear": 4123,
+    "timeMonth": 4833,
+    "timeYear": 4124,
     "dailyMinutesDown": {
       "2023-08-10": 54,
       "2023-08-09": 177,
@@ -43,7 +43,7 @@
       "2023-07-17": 21,
       "2023-07-16": 43,
       "2023-07-15": 151,
-      "2023-07-14": 34
+      "2023-07-14": 18
     }
   }
 ]
