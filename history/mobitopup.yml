@@ -1,7 +1,7 @@
 url: https://napcard.voz.tech
-status: up
+status: degraded
 code: 200
-responseTime: 1183
-lastUpdated: 2023-08-17T13:43:34.123Z
+responseTime: 10435
+lastUpdated: 2023-08-17T14:00:35.333Z
 startTime: Fri Jul 01 2022 02:41:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
