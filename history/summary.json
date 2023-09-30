@@ -6,17 +6,17 @@
     "slug": "mobitopup",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "97.19%",
-    "uptimeMonth": "96.14%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "96.15%",
     "uptimeYear": "99.59%",
     "time": 4163,
     "timeDay": 3601,
-    "timeWeek": 3927,
+    "timeWeek": 3942,
     "timeMonth": 3849,
-    "timeYear": 4233,
+    "timeYear": 4234,
     "dailyMinutesDown": {
-      "2023-09-29": 19,
+      "2023-09-29": 16,
       "2023-09-28": 107,
       "2023-09-27": 40,
       "2023-09-26": 36,
@@ -49,7 +49,7 @@
       "2023-08-28": 219,
       "2023-08-27": 52,
       "2023-08-26": 40,
-      "2023-08-25": 75
+      "2023-08-25": 95
     }
   }
 ]
